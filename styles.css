@@ -1,0 +1,17 @@
+body{
+    background-color: #2B2A4C;
+    color: #FFFFFF;
+}
+.outer-box{
+    height: 400px;
+    width: 1200px;
+    background-color: #A4343A;
+    position: relative;
+}
+.outer-box .inner-box{
+    height: 100px;
+    width: 1200px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 150px;
+}
